@@ -983,8 +983,8 @@ endfunction
 unlet! s:emmet_settings
 let s:emmet_settings = {
 \    'variables': {
-\      'lang': "en",
-\      'locale': "en-US",
+\      'lang': "ja",
+\      'locale': "ja",
 \      'charset': "UTF-8",
 \      'newline': "\n",
 \      'use_selection': 0,
